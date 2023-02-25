@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redux-Tollkit/static/css/main.91bc4245.css",
+    "main.js": "/Redux-Tollkit/static/js/main.95b1158c.js",
+    "index.html": "/Redux-Tollkit/index.html",
+    "main.91bc4245.css.map": "/Redux-Tollkit/static/css/main.91bc4245.css.map",
+    "main.95b1158c.js.map": "/Redux-Tollkit/static/js/main.95b1158c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91bc4245.css",
+    "static/js/main.95b1158c.js"
+  ]
+}
