@@ -1,0 +1,25 @@
+.div {
+    border: solid 2.5px black;
+    padding: 15px;
+
+    
+}
+input{
+    border: none;
+    outline: none;
+    background: #4F4F4F;
+    color: #4793FF;
+    font-weight: 500;
+font-size: 15px;
+line-height: 10px;
+}
+button {
+    border: none;
+    outline: none;
+    background: #2E3035;
+    cursor: pointer;
+    color: #FFFFFF;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
